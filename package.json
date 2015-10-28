@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/L3O/gulp-jenkins-reporter/issues"
   },
-  "homepage": "https://github.com/L3O/gulp-jenkins-reporter"
+  "homepage": "https://github.com/L3O/gulp-jenkins-reporter",
+  "dependencies": {
+    "xmlbuilder": "^3.1.0"
+  }
 }
