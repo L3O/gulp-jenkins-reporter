@@ -1,0 +1,19 @@
+{
+  "name": "gulp-jenkins-reporter",
+  "version": "1.0.0",
+  "description": "Gulp plugin to generate Jenkins reports",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/L3O/gulp-jenkins-reporter.git"
+  },
+  "author": "Leonardo Ferreira (L3O)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L3O/gulp-jenkins-reporter/issues"
+  },
+  "homepage": "https://github.com/L3O/gulp-jenkins-reporter"
+}
