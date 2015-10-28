@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<testsuite name="jscsreporter" failures="1">
+  <testcase name="app.js">
+    <failure message="Missing space after line comment. Line: 24. Column: 0"/>
+  </testcase>
+</testsuite>

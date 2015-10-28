@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<testsuite name="jscsreporter" failures="26">
+  <testcase name="gulpfile.js">
+    <failure message="Multiple var declaration. Line: 7. Column: 0"/>
+    <failure message="Missing space after line comment. Line: 14. Column: 4"/>
+    <failure message="Line must be at most 80 characters. Line: 14. Column: 102"/>
+    <failure message="Expected indentation of 6 characters. Line: 16. Column: 6"/>
+    <failure message="Missing space after key colon. Line: 16. Column: 13"/>
+    <failure message="Expected indentation of 6 characters. Line: 17. Column: 6"/>
+    <failure message="Missing space after key colon. Line: 17. Column: 12"/>
+    <failure message="Expected indentation of 6 characters. Line: 18. Column: 6"/>
+    <failure message="Missing space after key colon. Line: 18. Column: 11"/>
+    <failure message="Missing comma before closing curly brace. Line: 18. Column: 19"/>
+    <failure message="Missing space after line comment. Line: 22. Column: 0"/>
+    <failure message="Line must be at most 80 characters. Line: 22. Column: 98"/>
+    <failure message="Line must be at most 80 characters. Line: 28. Column: 120"/>
+    <failure message="Line must be at most 80 characters. Line: 30. Column: 153"/>
+    <failure message="Line must be at most 80 characters. Line: 31. Column: 88"/>
+    <failure message="Line must be at most 80 characters. Line: 34. Column: 116"/>
+    <failure message="Extra quotes for key. Line: 39. Column: 6"/>
+    <failure message="Missing comma before closing curly brace. Line: 39. Column: 51"/>
+    <failure message="Line must be at most 80 characters. Line: 43. Column: 122"/>
+    <failure message="Line must be at most 80 characters. Line: 45. Column: 137"/>
+    <failure message="Line must be at most 80 characters. Line: 46. Column: 90"/>
+    <failure message="Line must be at most 80 characters. Line: 49. Column: 124"/>
+    <failure message="Illegal space before opening round brace. Line: 50. Column: 31"/>
+    <failure message="Expected indentation of 2 characters. Line: 51. Column: 2"/>
+    <failure message="Expected indentation of 6 characters. Line: 53. Column: 6"/>
+    <failure message="Missing comma before closing curly brace. Line: 53. Column: 24"/>
+  </testcase>
+</testsuite>

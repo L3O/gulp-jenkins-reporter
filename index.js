@@ -1,8 +1,8 @@
 var fs = require('fs'),
-  reporter = require('./reporter');
+  jscsReporter = require('./reporters/jscs-reporter');
 
 module.exports = function(result) {
   'use strict';
-  var xml = reporter.report(result);
+  var xml = jscsReporter.report(result);
   fs.writeFileSync(__dirname + '/test/' + result[0]._file._filename + '.xml', xml);
 }

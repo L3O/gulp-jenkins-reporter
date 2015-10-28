@@ -5,7 +5,7 @@ exports.report = function (result) {
 
   // Creating the <testsuite>
   var testsuite = xml.create('testsuite');
-  testsuite.att('name', 'codelint');
+  testsuite.att('name', 'jscsreporter');
 
   result.forEach(function(element) {
 
