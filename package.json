@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/L3O/gulp-jenkins-reporter",
   "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jscs": "^3.0.2",
+    "gulp-jshint": "^1.11.2",
     "xmlbuilder": "^3.1.0"
   }
 }
