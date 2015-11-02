@@ -12,6 +12,7 @@ exports.report = function (result) {
   // Creating the <testsuite>
   var testsuite = xml.create('testsuite');
   testsuite.att('name', 'jscsreporter');
+  testsuite.att('tests', result.length);
 
   result.forEach(function (element) {
     // Add the number of errors to the total of errors
