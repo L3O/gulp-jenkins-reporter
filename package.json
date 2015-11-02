@@ -1,6 +1,6 @@
 {
   "name": "gulp-jenkins-reporter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Gulp plugin to generate Jenkins reports",
   "main": "index.js",
   "scripts": {
